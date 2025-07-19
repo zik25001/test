@@ -5,7 +5,7 @@ from random import randint
 import subprocess
 from cryptography.fernet import Fernet
 
-SERVER_URL = "http://92.51.21.72:5000"
+SERVER_URL = ""
 LIST_FILE = "list.txt"
 KEY_FILE = "key.key"
 ITERATION_SEND_INTERVAL = 1
